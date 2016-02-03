@@ -1,0 +1,89 @@
+
+.banner{
+	background:url(../img/dance_1.jpg)no-repeat;
+	height: 400px;
+	color: #C4C5C3;
+	background-size: cover;
+	padding: 4% 6%;
+}
+
+.banner h1{
+	font-family: DolceVita;
+	font-size: 5rem;
+	letter-spacing: 6px;
+}
+.banner p{
+	width: 240px;
+}
+
+.banner *{
+	margin-bottom: 2%;
+}
+
+.oferta{
+	background:url(../img/textura_2.jpg);
+	padding:5%;
+	font-size: 1.2rem;
+	position: relative;
+}
+.oferta p{
+	width: 45%;
+	margin:0 auto;
+}
+
+.oferta img{
+	position: absolute;
+	width: 130px;
+	height: 135px;
+	top:20%;
+	left: 45%;
+
+}
+
+.oferta button{
+	margin: 8% 0 2%;
+	width: 25%;
+	border-radius: 5px;
+}
+#instructores{
+	border: 2px solid #182B51;
+	height: 320px;
+}
+.fondo {
+	background: url(../img/instructor_4.jpg)no-repeat;
+	height: 320px;
+	background-size: cover;
+}
+.dos{
+	background: url(../img/profesor_9.jpg)no-repeat;
+	background-size: cover;
+}
+
+#instructores{
+	position: relative;
+}
+#instructores button{
+	position: absolute;
+	width: 40%;
+	height: 20%;
+	margin:0;
+	bottom: -4px;
+	left: 30%;
+}
+
+
+
+.ubicacion{
+	padding:4% 5%;
+	background-color: #1A2952;
+	color: #fff;	
+}
+
+
+.ubicacion p{
+	width: 83%;
+}
+.ubicacion .col-5 *{
+	padding-bottom: 3%;
+}
+

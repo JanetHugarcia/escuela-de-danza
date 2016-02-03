@@ -1,0 +1,56 @@
+#oferta_clases{
+	background-color:#F4F4F4;
+	padding-bottom: 5%;
+}
+
+.fila_clase{
+	margin: 2% auto 0;
+	width: 80%;
+}
+
+.fila_clase h1{
+	margin: 2% auto;
+}
+
+.clase{
+	width: 100%;
+	height: 400px;
+}
+
+.clase_1{
+	background: url(../img/dance_12.jpg)no-repeat;
+	background-size: cover;
+}
+
+.cuadrado{
+	background-color: rgba(0,0,0,0.7);
+	width: 90%;
+	margin:45% auto;
+	padding:6% 5%;
+	color:#fff;
+}
+
+.clase_2{
+	background: url(../img/breakdance.jpg)no-repeat;
+	background-size: 100% 110%;
+}
+
+.clase_3{
+	background: url(../img/lirical-jazz.jpg)no-repeat;
+	background-size: 100% 110%;
+}
+
+.clase_4{
+	background: url(../img/arabe.jpg)no-repeat;
+	background-size: 100% 110%;
+}
+
+.clase_5{
+	background: url(../img/little.jpg)no-repeat;
+	background-size: 100% 110%;
+}
+
+.clase_6{
+	background: url(../img/yoga.jpg)no-repeat;
+	background-size: cover;
+}
